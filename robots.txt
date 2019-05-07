@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohkaelahl.cycleconf.com/sitemap.xml
